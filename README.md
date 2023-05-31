@@ -6,7 +6,7 @@
   <!-- <a href="https://fxdatadownloader.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Fx Data Downloader</h1>
+<h1 align="center">FX Tick Data Downloader</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/javiergarciad/fx-data-downloader?color=56BEB8">
@@ -77,10 +77,9 @@ $ cd fx-data-downloader
 $ python -m venv .venv
 
 # Activate the virtual environment:
-# On windows:
+  # On windows:
   $ .\env\Scripts\activate
-
-# On Linux
+  # On Linux
   $ source env/bin/activate
 
 # Installl the required dependencies from the requirements.txt file
